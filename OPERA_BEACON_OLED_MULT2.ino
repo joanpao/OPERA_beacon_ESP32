@@ -6,7 +6,7 @@
 // - Se suprimir la parte de beacon CW
 // - Se crera un carrusel de bandas cada una con su modo OPERA recomendado, 1' de espera entre unos y otros
 /* Modos recomendados para cada bannda
-Modos Tiempos F.Portadora (RX USB= Fp - 1,8 kHz)
+Modos Tiempos F.Portadora (RX USB= Fp - 1,5 kHz)
 05    0,128s  144,181; 432,0915 y 1296,6015  MHz
 1     0,256s  21.075,5; 24.926,5; 28.071,5; 50.701,5 y 70.094,5 kHz
 2     0,512s  3.548,5; 5.290,5; 7.039,5; 10.136,5 y 14.063,5 kHz
